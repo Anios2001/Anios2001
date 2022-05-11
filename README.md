@@ -10,7 +10,7 @@ In case of ***Software Engineers*** the projects that mimic the design problem f
 As i follow a ***bottom up approach*** to solve a problem at hand, I think that it is imperative to start with *small projects with limited scope* and then move on to a **project with even larger scope**.
 
 Now, if i am trying to define a Project to you, i need to clear the actual meaning of a Project at this Github account. 
-**All Projects have a same structure, and are uniquely defined by the PROBLEM STATEMENT of the project** ,following headings form a documentation of a project......
+**All Projects have a same structure, and are uniquely defined by the PROBLEM STATEMENT of the project** ,the following headings form documentation of a project......
 1. PROBLEM STATEMENT
 2. DETAILED ANALYSIS 
 3. TECHNICAL STACK
